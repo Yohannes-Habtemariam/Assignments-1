@@ -1,0 +1,104 @@
+html{
+    font-size: 62.5%;
+}
+
+body{
+    font-size: 1.6rem;
+    font-family: sans-serif;
+    text-align: justify;
+    margin-left: 5rem;
+    margin-top: 3rem;
+}
+
+
+h1{
+    font-size: 2rem;
+}
+h2{
+    font-size: 1.5rem;
+}
+.driving{
+    width: 30%;
+    display: inline-block;
+    background-color: hsl(180, 67%, 82%);
+    vertical-align: top;
+}
+.driving h1{
+    color: red;
+}
+
+.shopping{
+    width: 33%;
+    display: inline-block;
+    vertical-align: top;
+    background-color: #a9b352;
+    margin-left: 3rem;
+}
+
+.shopping h2{
+  color: red;
+  display: block;
+}
+
+
+.shopping ul{
+    list-style-type: circle;
+}
+
+
+.shopping ul ol{
+    list-style-type: upper-alpha;
+}
+
+.shopping h3{
+    background-color: #826a97;
+    color: blue;
+}
+.cake{
+    width: 30%;
+    display: inline-block;
+    margin-top: 0.3rem;
+    background-color: #d7f1be;
+    margin-left: 3rem;
+
+}
+
+.cake h1{
+    color: red;
+}
+
+    
+
+}
+.steps{
+    width: 100%;
+    margin-top: 3rem;
+    background-color: #70c2e2;
+    
+}
+
+.step1{
+    width: 40%;
+    display: inline-block;
+    margin-left: 2rem;
+
+}
+
+h3.step1{
+    color: red;
+
+}
+
+.step2{
+    width: 40%;
+    display: inline-block;
+    margin-left: 8rem;
+}.step3{
+    width: 40%;
+    display: inline-block;
+    margin-left: 2rem;
+}.step4{
+    width: 40%;
+    display: inline-block;
+    margin-left: 8rem;
+}
